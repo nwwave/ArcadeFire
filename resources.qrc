@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/burst.png</file>
+        <file>Images/enemy_left_right.png</file>
+        <file>Images/enemy_up_down.png</file>
+        <file>Images/left_right.png</file>
+        <file>Images/shield_indicator.png</file>
+        <file>Images/shield_sprite.png</file>
+        <file>Images/shoot_indicator.png</file>
+        <file>Images/speed.png</file>
+        <file>Images/up_down.png</file>
+        <file>Images/enemy.png</file>
+        <file>Images/Goku_select.png</file>
+        <file>Images/goku_stand.png</file>
+        <file>Images/Hercule_select.png</file>
+        <file>Images/hercule_stand.png</file>
+        <file>Images/Saiyaman_select.png</file>
+        <file>Images/saiyaman_stand.png</file>
+        <file>Images/background.png</file>
+        <file>Images/tombstone.png</file>
+    </qresource>
+</RCC>
